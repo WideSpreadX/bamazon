@@ -19,7 +19,7 @@ connection.connect(function (err) {
     connection.end();
 });
 
-
+//------------------    SOMETHING IS WRONG WITH MY COMPUTER --- INCOMPLETE ------------ 
 //SWITCH STATEMENT  -----------------------------------------------------------
 
 //CASE - FOR SALE
